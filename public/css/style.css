@@ -1,0 +1,12 @@
+.hero{
+    background-image: url("../images/1.png");
+    height: 270px;
+}
+
+.hero h1{
+    float: right;
+    margin-right: 175px;
+    color: azure;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
